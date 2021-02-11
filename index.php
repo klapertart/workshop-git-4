@@ -6,6 +6,11 @@
 
 <ul>
         <li>Fitur - Persiapan Tahun Pajak Baru</li>
+	<!-- 
+	Programmer : Otong Sunandar
+	Tanggl	: 11/02/2021
+	Deskripsi : Menambahkan fitur penilaian
+	-->
 	<li>Fitur - Penilaian</li>
 </ul>
 
