@@ -6,6 +6,7 @@
 
 <ul>
         <li>Fitur - Persiapan Tahun Pajak Baru</li>
+	<li>Fitur - Penilaian</li>
 </ul>
 
 </body>
